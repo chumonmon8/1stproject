@@ -1,0 +1,18 @@
+body {
+    background-color: #f6f1eb;
+    color: #696969;
+    font-family: "Playwrite France Moderne", sans-serif;
+    font-size: xx-large;
+}
+
+img {
+    display: inline-flex;
+    height: 300px;
+}
+
+@media (max-width: 600px) {
+
+    div {
+      height: 200px;
+      width: 200px;
+    }
